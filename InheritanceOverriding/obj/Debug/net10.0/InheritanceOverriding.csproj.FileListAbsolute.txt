@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\bin\Debug\net10.0\InheritanceOverriding.exe
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\bin\Debug\net10.0\InheritanceOverriding.deps.json
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\bin\Debug\net10.0\InheritanceOverriding.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\bin\Debug\net10.0\InheritanceOverriding.dll
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\bin\Debug\net10.0\InheritanceOverriding.pdb
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\obj\Debug\net10.0\InheritanceOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\obj\Debug\net10.0\InheritanceOverriding.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\obj\Debug\net10.0\InheritanceOverriding.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\obj\Debug\net10.0\InheritanceOverriding.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\obj\Debug\net10.0\InheritanceOverriding.sourcelink.json
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\obj\Debug\net10.0\InheritanceOverriding.dll
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\obj\Debug\net10.0\refint\InheritanceOverriding.dll
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\obj\Debug\net10.0\InheritanceOverriding.pdb
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\obj\Debug\net10.0\InheritanceOverriding.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\obj\Debug\net10.0\ref\InheritanceOverriding.dll

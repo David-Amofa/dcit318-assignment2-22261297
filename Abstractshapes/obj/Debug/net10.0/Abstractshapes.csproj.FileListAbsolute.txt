@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\obj\Debug\net10.0\Abstractshapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\obj\Debug\net10.0\Abstractshapes.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\obj\Debug\net10.0\Abstractshapes.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\obj\Debug\net10.0\Abstractshapes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\obj\Debug\net10.0\Abstractshapes.sourcelink.json
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\bin\Debug\net10.0\Abstractshapes.exe
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\bin\Debug\net10.0\Abstractshapes.deps.json
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\bin\Debug\net10.0\Abstractshapes.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\bin\Debug\net10.0\Abstractshapes.dll
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\bin\Debug\net10.0\Abstractshapes.pdb
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\obj\Debug\net10.0\Abstractshapes.dll
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\obj\Debug\net10.0\refint\Abstractshapes.dll
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\obj\Debug\net10.0\Abstractshapes.pdb
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\obj\Debug\net10.0\Abstractshapes.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InheritanceOverriding\Abstractshapes\obj\Debug\net10.0\ref\Abstractshapes.dll

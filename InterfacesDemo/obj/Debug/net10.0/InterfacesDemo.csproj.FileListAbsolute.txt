@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\bin\Debug\net10.0\InterfacesDemo.exe
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\bin\Debug\net10.0\InterfacesDemo.deps.json
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\bin\Debug\net10.0\InterfacesDemo.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\bin\Debug\net10.0\InterfacesDemo.dll
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\bin\Debug\net10.0\InterfacesDemo.pdb
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.sourcelink.json
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.dll
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\obj\Debug\net10.0\refint\InterfacesDemo.dll
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.pdb
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\obj\Debug\net10.0\InterfacesDemo.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub\dcit318-assignment2-22261297\InterfacesDemo\obj\Debug\net10.0\ref\InterfacesDemo.dll
